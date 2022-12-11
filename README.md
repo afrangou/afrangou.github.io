@@ -1,6 +1,6 @@
 # Dr Anna Frangou
 
-![IMG_3133_232_circle](https://user-images.githubusercontent.com/31625349/206919023-c9c06baf-8780-4520-accd-77a70a9e1966.jpg)
+![IMG_3133_232_circle2](https://user-images.githubusercontent.com/31625349/206919124-8e8d3d01-03e6-490e-903b-2ffaf6bfe96a.png)
 
 I am a medical writer and strategist at [Open Health](https://www.openhealthgroup.com). I write publications and medical affairs materials for pharma and biotech, and build strategic communication plans to maximise their impact. 
 
