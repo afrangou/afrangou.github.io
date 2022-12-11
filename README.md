@@ -1,5 +1,7 @@
 # Dr Anna Frangou
 
+![IMG_3133_232](https://user-images.githubusercontent.com/31625349/206918903-570d2394-c621-472e-89e4-a1512b1aee2b.jpg)
+
 I am a medical writer and strategist at [Open Health](https://www.openhealthgroup.com). I write publications and medical affairs materials for pharma and biotech, and build strategic communication plans to maximise their impact. 
 
 I specialise in oncology, particularly cancer genomics, and have worked with AbbVie, Astellas, AstraZeneca, BeiGene, Boehringer Ingelheim, Genmab, and Merck, among others.
