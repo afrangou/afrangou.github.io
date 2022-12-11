@@ -17,4 +17,11 @@ I also obtained two independent research grants from the [Human Immune Discovery
 I have also published several times with [Prof Robin Dunbar](https://www.psy.ox.ac.uk/people/robin-dunbar) – of Dunbar number fame – as well as coauthoring a [feature article](https://www.researchgate.net/publication/286264410_Wildlife_in_a_warming_world) with [Prof Rob Whittaker](https://www.geog.ox.ac.uk/staff/rwhittaker.html) in the UNESCO publication ‘A World of Science’. 
 
 ## Selected publications 
+Alex J. Cornish*, Andreas J. Gruber*, Ben Kinnersley*, Daniel Chubb*, **Anna Frangou***, Giulio Caravagna*, Boris Noyvert*, Eszter Lakatos*, Henry M. Wood*, et al. [Whole genome sequencing of 2,023 colorectal cancers reveals mutational landscapes, new driver genes and immune interactions](https://www.biorxiv.org/content/10.1101/2022.11.16.515599v1). bioRxiv. 2022. *Joint first authors. 
+
+Annalise C. Katz-Summercorn*, Sriganesh Jammula*, **Anna Frangou**, et al. [Multi-omic cross-sectional cohort study of pre-malignant Barrett’s esophagus reveals early structural variation and retrotransposon activity](https://www.nature.com/articles/s41467-022-28237-4). Nature Comms. 2022;13:1407. *Joint first authors.  
+
+Thomas M. Carroll, Joseph A. Chadwick, Richard P. Owen, Michael J. White, Joseph Kaplinsky, Iliana Peneva, **Anna Frangou**, et al. [Comprehensive molecular profiling to predict first-line immunochemotherapy outcomes in inoperable esophageal adenocarcinoma](https://aacrjournals.org/cancerres/article/82/12_Supplement/1247/699959/Abstract-1247-Comprehensive-molecular-profiling-to). Cancer Res. 2022;82:1247.
+
+Alex J. Cornish*,  Daniel Chubb*,  **Anna Frangou**, et al. [Reference bias in the illumina Isaac aligner.](https://academic.oup.com/bioinformatics/article/36/17/4671/5841658?login=false). Bioinformatics. 2021;36:4671-4672. *Joint first authors.
 
