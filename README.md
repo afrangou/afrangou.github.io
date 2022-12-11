@@ -4,7 +4,7 @@ I am a medical writer and strategist at [Open Health](https://www.openhealthgrou
 
 I specialise in oncology, particularly cancer genomics, and have worked with AbbVie, Astellas, AstraZeneca, BeiGene, Boehringer Ingelheim, Genmab, and Merck, among others.
 
-Previously, I spent 3.5 years (2017-2021) at the [Big Data Institute, University of Oxford](https://www.bdi.ox.ac.uk/Team/anna-frangou) as a postdoctoral bioinformatician in cancer genomics, working with [Prof David Wedge[(https://www.research.manchester.ac.uk/portal/david.wedge.html), [Prof Rebecca Fitzgerald](https://www.oncology.cam.ac.uk/directory/r-fitzgerald), and [Prof Ian Tomlinson](https://www.ed.ac.uk/cancer-centre/research/tomlinson-group). 
+Previously, I spent 3.5 years (2017-2021) at the [Big Data Institute, University of Oxford](https://www.bdi.ox.ac.uk/Team/anna-frangou) as a postdoctoral bioinformatician in cancer genomics, working with [Prof David Wedge](https://www.research.manchester.ac.uk/portal/david.wedge.html), [Prof Rebecca Fitzgerald](https://www.oncology.cam.ac.uk/directory/r-fitzgerald), and [Prof Ian Tomlinson](https://www.ed.ac.uk/cancer-centre/research/tomlinson-group). 
 
 Focuses included [developing methodology for somatic copy number calling](https://github.com/afrangou/CleanCNA), [characterising the mutational landscape of colorectal](https://www.biorxiv.org/content/10.1101/2022.11.16.515599v1) and testicular cancer in collaboration with [Genomics England](https://www.genomicsengland.co.uk), and [inferring tumour evolution and heterogeneity in Barrett’s oesophagus](https://www.nature.com/articles/s41467-022-28237-4). For code, see [my GitHub](https://github.com/afrangou). 
 
