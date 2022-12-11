@@ -23,5 +23,5 @@ Annalise C. Katz-Summercorn^, Sriganesh Jammula^, **Anna Frangou**, et al. [Mult
 
 Thomas M. Carroll, Joseph A. Chadwick, Richard P. Owen, Michael J. White, Joseph Kaplinsky, Iliana Peneva, **Anna Frangou**, et al. [Comprehensive molecular profiling to predict first-line immunochemotherapy outcomes in inoperable esophageal adenocarcinoma](https://aacrjournals.org/cancerres/article/82/12_Supplement/1247/699959/Abstract-1247-Comprehensive-molecular-profiling-to). Cancer Res. 2022;82:1247.
 
-Alex J. Cornish^,  Daniel Chubb^,  **Anna Frangou**, et al. [Reference bias in the illumina Isaac aligner.](https://academic.oup.com/bioinformatics/article/36/17/4671/5841658?login=false). Bioinformatics. 2021;36:4671-4672. ^Joint first authors.
+Alex J. Cornish^,  Daniel Chubb^,  **Anna Frangou**, et al. [Reference bias in the Illumina Isaac aligner](https://academic.oup.com/bioinformatics/article/36/17/4671/5841658?login=false). Bioinformatics. 2021;36:4671-4672. ^Joint first authors.
 
